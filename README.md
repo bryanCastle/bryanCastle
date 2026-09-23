@@ -1,4 +1,4 @@
-<img width="1120" height="480" alt="Banner" src="./banner.gif" />
+<img width="1120" height="480" alt="Banner" src="./Banner.gif" />
 ## Hi there 👋
 
 <!--
