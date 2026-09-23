@@ -2,10 +2,10 @@
   <img src="./Banner.gif" alt="Bryan Castillo banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I’m Bryan Castillo 👋</h1>
+<h1 align="center">Aspiring Software engineer building creative tools and AI-powered applications.</h1>
 
 <p align="center">
-  Software engineer and photographer building creative tools, AI-powered applications, and polished digital experiences.
+
 </p>
 
 <p align="center">
@@ -16,7 +16,9 @@
 
 About Me
 
-I enjoy turning ideas into practical products with clean interfaces and focused user experiences. My work ranges from native Windows software and interactive web applications to machine-learning experiments and AI tools for creators.
+<img align="right" src="./LayingCharachter.png" alt="Laying character" width="300">
+
+I enjoy solving my problems through coding, prioritizing clean interfaces and focused user experiences. My work so far ranges from native Windows software and interactive web applications to machine-learning experiments and AI tools for creators.
 
 🔭 Building creative software and AI-powered experiences
 
@@ -25,6 +27,8 @@ I enjoy turning ideas into practical products with clean interfaces and focused 
 📷 Combining software engineering with photography and visual design
 
 🎨 Interested in thoughtful interfaces, animation, and product design
+
+<br clear="right">
 
 Featured Project
 
@@ -40,7 +44,7 @@ Featured Project
   </p>
 
   <p>
-    FirstBatch is a native Windows app that helps photographers quickly review and organize large photo shoots. It provides a focused, keyboard-friendly workflow with a distraction-free viewer, RAW image support, local file management, and reversible sorting actions.
+    Check out FirstBatch, it's a native Windows app that helps photographers quickly review and organize large photo shoots. It provides a focused, keyboard-friendly workflow with a distraction-free viewer, RAW image support, local file management, and reversible sorting actions.
   </p>
 
   <p>
