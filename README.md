@@ -1,4 +1,4 @@
-<img width="1120" height="480" alt="Untitled Project (1)" src="./Untitled%20Project%20(1).gif" />
+<img width="1120" height="480" alt="Banner" src="./banner.gif" />
 ## Hi there 👋
 
 <!--
