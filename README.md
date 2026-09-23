@@ -16,7 +16,7 @@
 
 About Me
 
-<img align="right" src="./LayingCharachter.png" alt="Laying character" width="300">
+<img align="right" src="./LayingChar.png" alt="Laying character" width="300">
 
 I enjoy solving my problems through coding, prioritizing clean interfaces and focused user experiences. My work so far ranges from native Windows software and interactive web applications to machine-learning experiments and AI tools for creators.
 
