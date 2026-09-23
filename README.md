@@ -1,6 +1,4 @@
-<img width="1120" height="480" alt="Untitled Project (1)" src="https://github.com/user-attachments/assets/70f56e85-74ef-48bb-b71b-742edfe1c7e6" />
-
-
+<img width="1120" height="480" alt="Untitled Project (1)" src="./Untitled%20Project%20(1).gif" />
 ## Hi there 👋
 
 <!--
