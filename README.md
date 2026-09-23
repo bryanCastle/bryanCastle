@@ -1,4 +1,5 @@
-[Untitled Project.webm](https://github.com/user-attachments/assets/15db7220-c9c0-4620-906e-3b928793f4eb)
+<img width="1120" height="480" alt="Untitled Project (1)" src="https://github.com/user-attachments/assets/70f56e85-74ef-48bb-b71b-742edfe1c7e6" />
+
 
 ## Hi there 👋
 
